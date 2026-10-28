@@ -1,0 +1,12 @@
+
+{
+  "name": "Java Coding Practice",
+  "image": "mcr.microsoft.com/devcontainers/java:1-25-bookworm",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack"
+      ]
+    }
+  }
+}
